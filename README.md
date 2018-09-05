@@ -1,1 +1,1 @@
-# provenexpert-shopware-plugin
+# ProvenExpert plugin for Shopware.
